@@ -193,7 +193,7 @@ const Leaderboard = () => {
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6">
             <h1 className="text-2xl font-bold text-white flex items-center">
               <Trophy className="h-6 w-6 mr-2 text-yellow-400" />
-              Top 10 Players
+              Top 20 Players
             </h1>
             <select
               value={selectedMatch}
